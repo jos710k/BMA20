@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Gradle\Cache\caches\8.9\transforms\fa2d052d486fb52d68c25d2a7887df95\transformed\viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\a2f0fb194e61df82e68165320d7963d3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\3502c290619b4c58be753a4fb22a666b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\e2d55b21b9938bda9b0a931224d7390e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\d460143c3bd251e3baf8a8db9946be6e\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\c78411c152c39b3f3c2cb73dca2d88ae\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\e20dfcbf5f94c378dafb074c4b1100e8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\ad640b1a3abd3cfd4b3a167a31541a43\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\71e06e465034d9d1ba8bbcce45f5b1d6\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d416c2607c1a98302a1c74e63eb7f21e\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\0762d236e97d2d0b303ad2ba20974f4f\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\8aea0eac42bf1ef343e6d8784a9f914d\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cc2d53a810e96d935503341d5e405178\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\Cache\caches\8.9\transforms\e3b839042063bb2eaddac7c0600b5338\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\Cache\caches\8.9\transforms\656c6417946c8ea5a6a9e53d34aee042\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\53a784dcfa27bd666e48839c2baec017\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\7fd6c27876b1d0f077f9836de42a64a6\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d1c464787a7ef16af976a1d69e58b77d\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\ad53c21ef6f0af305efb4008034d1bd7\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\09cc947e45f2cc8e07e58d46575dd32d\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\f3cd54e21663246a6e09f566a11c72b5\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\11529e0a41f8a48ab5ad9eae2ae644fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5c920a447eb94d17a41dd822844aa159\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\87fcceb86ab1242830de4182733a310a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\37fad4dc45925795beaf412d72c8deda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\60939e4b83eaaf80238d685ce6970076\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cf028d9f861e6d2235d496d779f6d266\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\9d0868642fa06ff468a695eb41789618\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\4c0335731cee9902299f2d5f9f833445\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\9d019cede060f1422e1b636b082c7407\transformed\tasks-vision-0.10.14\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\576b8a3f52cf8fbf71b4892691114aca\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\37d6321c22c099f19b8ca4b5cbdfc605\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\08bb7e09594c4a65178f11bc476befd1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\8c3523e4b8857e1457187ed0493e5fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\4d37801fcbba9ac564ad8afeb17b80e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\3339cd8171c0429cc74e366d98113a49\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\c6b6740a057f809cb352a70b236355e1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\cce4f9ca24a7193e24a7815fd78f356e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Gradle\Cache\caches\8.9\transforms\4954a196cb6dac74a4d98a097c7b4962\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7d95b12f191bfab1013b1ba7f2d6c25e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\299e5c3271d042796fc8b71a3ab6b228\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\088aed250af609d2a4d0262b7d2f4b90\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\53bc90f95f2e9d5d84d611e2756fa7a6\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7ff56ed5e06038a154a440dca2ec65f1\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Gradle\Cache\caches\8.9\transforms\749c241e18dcae14b058c4d1795789f8\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\d937f67883cae8b41247d16ac800cace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\455a19575b04049a04e6bec831b92712\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\4d49d09dad6f5a5f507c9eb200ee57b3\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\d7044963f5d5dade219a303e352ac320\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\e45d25e20b5559ac02fd49a46fc3534e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\2b52de7b14dcd4b3f16f77f294bcaf8f\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\b1b909f73b0d806e134c79b7a9c82de0\transformed\tasks-core-0.10.14\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Gradle\Cache\caches\8.9\transforms\b86ccbef8baac43b6464191e38719ea2\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\041f33ed9b5bad3ffb8b5ee12d36f5c2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\21021963a4baebcf830280e0d970b474\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\a96efceba18eaa77139c27a898a0ba64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5e01d066d0ceaf75b21d1acc3cc7d995\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Gradle\Cache\caches\8.9\transforms\b5ca7a72f69e64f8ba1aab7294913d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\562ef8c362514bd0b6298dd7068ed9e3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+	package
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:19:5-51
+	xmlns:dist
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:18:5-61
+	android:versionCode
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:1-59:12
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:11-69
+dist:module
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:22:5-40
+	dist:instant
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:22:18-37
+uses-feature#android.hardware.camera
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:25:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:28:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:29:5-30:38
+	android:maxSdkVersion
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:30:9-35
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:31:22-77
+application
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:33:5-57:19
+MERGED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\Cache\caches\8.9\transforms\e3b839042063bb2eaddac7c0600b5338\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\Cache\caches\8.9\transforms\e3b839042063bb2eaddac7c0600b5338\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\Cache\caches\8.9\transforms\656c6417946c8ea5a6a9e53d34aee042\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\Cache\caches\8.9\transforms\656c6417946c8ea5a6a9e53d34aee042\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\d937f67883cae8b41247d16ac800cace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\d937f67883cae8b41247d16ac800cace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:36:9-41
+	tools:ignore
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:41:9-35
+	android:roundIcon
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:37:9-54
+	android:icon
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:35:9-43
+	android:allowBackup
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:40:9-55
+	android:taskAffinity
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:39:9-32
+activity#com.google.mediapipe.examples.gesturerecognizer.MainActivity
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:43:9-56:20
+	android:exported
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:44:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:49:27-74
+meta-data#android.notch_support
+ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:55:17-37
+	android:name
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:54:17-53
+uses-sdk
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Gradle\Cache\caches\8.9\transforms\fa2d052d486fb52d68c25d2a7887df95\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Gradle\Cache\caches\8.9\transforms\fa2d052d486fb52d68c25d2a7887df95\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\a2f0fb194e61df82e68165320d7963d3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\a2f0fb194e61df82e68165320d7963d3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\3502c290619b4c58be753a4fb22a666b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\3502c290619b4c58be753a4fb22a666b\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\e2d55b21b9938bda9b0a931224d7390e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\e2d55b21b9938bda9b0a931224d7390e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\d460143c3bd251e3baf8a8db9946be6e\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\d460143c3bd251e3baf8a8db9946be6e\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\c78411c152c39b3f3c2cb73dca2d88ae\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\c78411c152c39b3f3c2cb73dca2d88ae\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\e20dfcbf5f94c378dafb074c4b1100e8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\e20dfcbf5f94c378dafb074c4b1100e8\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\ad640b1a3abd3cfd4b3a167a31541a43\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\ad640b1a3abd3cfd4b3a167a31541a43\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\71e06e465034d9d1ba8bbcce45f5b1d6\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\71e06e465034d9d1ba8bbcce45f5b1d6\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d416c2607c1a98302a1c74e63eb7f21e\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d416c2607c1a98302a1c74e63eb7f21e\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\0762d236e97d2d0b303ad2ba20974f4f\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\0762d236e97d2d0b303ad2ba20974f4f\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\8aea0eac42bf1ef343e6d8784a9f914d\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Gradle\Cache\caches\8.9\transforms\8aea0eac42bf1ef343e6d8784a9f914d\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cc2d53a810e96d935503341d5e405178\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cc2d53a810e96d935503341d5e405178\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\Cache\caches\8.9\transforms\e3b839042063bb2eaddac7c0600b5338\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\Cache\caches\8.9\transforms\e3b839042063bb2eaddac7c0600b5338\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\Cache\caches\8.9\transforms\656c6417946c8ea5a6a9e53d34aee042\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\Cache\caches\8.9\transforms\656c6417946c8ea5a6a9e53d34aee042\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\53a784dcfa27bd666e48839c2baec017\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\53a784dcfa27bd666e48839c2baec017\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\7fd6c27876b1d0f077f9836de42a64a6\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\7fd6c27876b1d0f077f9836de42a64a6\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d1c464787a7ef16af976a1d69e58b77d\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\d1c464787a7ef16af976a1d69e58b77d\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\ad53c21ef6f0af305efb4008034d1bd7\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\ad53c21ef6f0af305efb4008034d1bd7\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\09cc947e45f2cc8e07e58d46575dd32d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Gradle\Cache\caches\8.9\transforms\09cc947e45f2cc8e07e58d46575dd32d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\f3cd54e21663246a6e09f566a11c72b5\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Gradle\Cache\caches\8.9\transforms\f3cd54e21663246a6e09f566a11c72b5\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\11529e0a41f8a48ab5ad9eae2ae644fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\11529e0a41f8a48ab5ad9eae2ae644fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5c920a447eb94d17a41dd822844aa159\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5c920a447eb94d17a41dd822844aa159\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\87fcceb86ab1242830de4182733a310a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\87fcceb86ab1242830de4182733a310a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\37fad4dc45925795beaf412d72c8deda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\37fad4dc45925795beaf412d72c8deda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\60939e4b83eaaf80238d685ce6970076\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\60939e4b83eaaf80238d685ce6970076\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cf028d9f861e6d2235d496d779f6d266\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\cf028d9f861e6d2235d496d779f6d266\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\9d0868642fa06ff468a695eb41789618\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\9d0868642fa06ff468a695eb41789618\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\4c0335731cee9902299f2d5f9f833445\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\4c0335731cee9902299f2d5f9f833445\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\9d019cede060f1422e1b636b082c7407\transformed\tasks-vision-0.10.14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\9d019cede060f1422e1b636b082c7407\transformed\tasks-vision-0.10.14\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\576b8a3f52cf8fbf71b4892691114aca\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\576b8a3f52cf8fbf71b4892691114aca\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\37d6321c22c099f19b8ca4b5cbdfc605\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\37d6321c22c099f19b8ca4b5cbdfc605\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\08bb7e09594c4a65178f11bc476befd1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\08bb7e09594c4a65178f11bc476befd1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\8c3523e4b8857e1457187ed0493e5fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\8c3523e4b8857e1457187ed0493e5fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\4d37801fcbba9ac564ad8afeb17b80e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\4d37801fcbba9ac564ad8afeb17b80e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\3339cd8171c0429cc74e366d98113a49\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\3339cd8171c0429cc74e366d98113a49\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\c6b6740a057f809cb352a70b236355e1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\c6b6740a057f809cb352a70b236355e1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\cce4f9ca24a7193e24a7815fd78f356e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\cce4f9ca24a7193e24a7815fd78f356e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Gradle\Cache\caches\8.9\transforms\4954a196cb6dac74a4d98a097c7b4962\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Gradle\Cache\caches\8.9\transforms\4954a196cb6dac74a4d98a097c7b4962\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Gradle\Cache\caches\8.9\transforms\66a8fe35803796966bb54ff877c6fc4f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7d95b12f191bfab1013b1ba7f2d6c25e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7d95b12f191bfab1013b1ba7f2d6c25e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\299e5c3271d042796fc8b71a3ab6b228\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\299e5c3271d042796fc8b71a3ab6b228\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\088aed250af609d2a4d0262b7d2f4b90\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\088aed250af609d2a4d0262b7d2f4b90\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\53bc90f95f2e9d5d84d611e2756fa7a6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\53bc90f95f2e9d5d84d611e2756fa7a6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7ff56ed5e06038a154a440dca2ec65f1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\7ff56ed5e06038a154a440dca2ec65f1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Gradle\Cache\caches\8.9\transforms\749c241e18dcae14b058c4d1795789f8\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Gradle\Cache\caches\8.9\transforms\749c241e18dcae14b058c4d1795789f8\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\d937f67883cae8b41247d16ac800cace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\d937f67883cae8b41247d16ac800cace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\455a19575b04049a04e6bec831b92712\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\455a19575b04049a04e6bec831b92712\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\4d49d09dad6f5a5f507c9eb200ee57b3\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\4d49d09dad6f5a5f507c9eb200ee57b3\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\d7044963f5d5dade219a303e352ac320\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\d7044963f5d5dade219a303e352ac320\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\e45d25e20b5559ac02fd49a46fc3534e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Gradle\Cache\caches\8.9\transforms\e45d25e20b5559ac02fd49a46fc3534e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\2b52de7b14dcd4b3f16f77f294bcaf8f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\Cache\caches\8.9\transforms\2b52de7b14dcd4b3f16f77f294bcaf8f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\b1b909f73b0d806e134c79b7a9c82de0\transformed\tasks-core-0.10.14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] C:\Gradle\Cache\caches\8.9\transforms\b1b909f73b0d806e134c79b7a9c82de0\transformed\tasks-core-0.10.14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Gradle\Cache\caches\8.9\transforms\b86ccbef8baac43b6464191e38719ea2\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Gradle\Cache\caches\8.9\transforms\b86ccbef8baac43b6464191e38719ea2\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\041f33ed9b5bad3ffb8b5ee12d36f5c2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\041f33ed9b5bad3ffb8b5ee12d36f5c2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\21021963a4baebcf830280e0d970b474\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\21021963a4baebcf830280e0d970b474\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\a96efceba18eaa77139c27a898a0ba64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\a96efceba18eaa77139c27a898a0ba64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5e01d066d0ceaf75b21d1acc3cc7d995\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\Cache\caches\8.9\transforms\5e01d066d0ceaf75b21d1acc3cc7d995\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Gradle\Cache\caches\8.9\transforms\b5ca7a72f69e64f8ba1aab7294913d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Gradle\Cache\caches\8.9\transforms\b5ca7a72f69e64f8ba1aab7294913d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\562ef8c362514bd0b6298dd7068ed9e3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\Cache\caches\8.9\transforms\562ef8c362514bd0b6298dd7068ed9e3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\GESTURE\BMA20P\mediapipe-samples\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] C:\Gradle\Cache\caches\8.9\transforms\7e591577914a5907135189b80c21f710\transformed\window-1.1.0-alpha03\AndroidManifest.xml:27:13-51
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:25:9-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:30:9-34:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\b752dcb82c2b776daae1792a1528adee\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:30:9-34:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:30:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:27:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:28:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:29:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:26:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:31:13-33:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:33:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] C:\Gradle\Cache\caches\8.9\transforms\462c75289cb667430fbc3a39afaffc61\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:32:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Gradle\Cache\caches\8.9\transforms\cc903e3d8f861c747a629d11a18d1734\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Gradle\Cache\caches\8.9\transforms\ecada94e0e0b5bce970b945c75f6348b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Gradle\Cache\caches\8.9\transforms\9da2d0c2957bbce12897b4474b52e47f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\4f70620de0e54637bf5f9ecda46120c1\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] C:\Gradle\Cache\caches\8.9\transforms\93620040d65e3668a8e783f304ab725c\transformed\transport-runtime-3.1.0\AndroidManifest.xml:33:13-132
